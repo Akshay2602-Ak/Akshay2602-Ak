@@ -1,8 +1,8 @@
 # About Me:
 1. I'm a passionate tech learner working on real-world projects like smart trolleys and AI apps.<br>
-<br>2. I build cool stuff using Python, JavaScript, Flask,Tailwind CSS.<br>
-<br>3. Currently learning TypeScript, Node.js, and automation tools to boost my dev skills.<br>
-<br>4. My goal is to become a AI developer and automation expert.
+2. I build cool stuff using Python, JavaScript, Flask,Tailwind CSS.<br>
+3. Currently learning TypeScript, Node.js, and automation tools to boost my dev skills.<br>
+4. My goal is to become a AI developer and automation expert.
 
 
 ## Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-kumar-t-37bb9b285/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:takshaykumar26022004@gmail.com) 
